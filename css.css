@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+html {
+    background: url(storm1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.lg {
+    border-radius: 35px;
+    background-image: url(storm.jpg);
+    background-position: 55%;
+    width: 400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    min-height: 100%;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.438);
+
+
+}
+
+.logo {
+    width: 90px;
+    padding-left: 40%;
+    padding-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
+.text {
+    border-radius: 10px;
+    background-color: rgba(0, 97, 161, 0.781);
+    border-color: rgba(0, 97, 161, 0.781);
+    display: block;
+    height: 20px;
+    width: 70%;
+    padding-top: 20px;
+    margin-top: 40px;
+    margin-right: 25%;
+    margin-left: 15%;
+    font-size: 30px;
+    text-align: center;
+}
+
+.btn {
+    height: 40px;
+    display: block;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    margin-top: 55px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 129px;
+    background-color: rgba(0, 97, 161, 0.781);
+}
+
+.check {
+    display: inline;
+    margin-left: 120px;
+}
+
+p {
+    color: rgb(0, 89, 255);
+    font-size: 20px;
+    padding-left: 1%;
+    display: inline-block;
+}
+
+a {
+    padding-left: 39%;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(0, 98, 255);
+}
+
+.underline {
+    height: 2px;
+    background-color: blueviolet;
+    margin-right: 68px;
+    margin-left: 68px;
+    margin-bottom: -88px;
+    padding-right: 30%;
+    display: inline-block;
+}
